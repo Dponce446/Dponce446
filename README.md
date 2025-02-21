@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dponce446
 - 👀 I’m interested in Programming on Phyton lenguage.
-- 🌱 I’m currently learning web pages creation.
-- 💞️ I’m looking to collaborate on science data profesionals
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me dponcebjj96@gmail.com
 
 <!---
